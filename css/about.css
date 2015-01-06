@@ -1,0 +1,28 @@
+body {
+    margin: 0;
+    text-align: center;
+}
+
+#content{
+    padding-top: 10px;
+    font-family: 'Open Sans', sans-serif;
+    width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: justify;
+}
+
+#title{
+    font-family: 'Open Sans', sans-serif;
+}
+
+#about-img {
+/*    background-size: 100px 100px;*/
+    padding-top: 15px;
+    height: 300px;
+    width: auto;
+    background-repeat: no-repeat;
+    padding-top: 0px;
+    padding-right: 30px;
+/*    float: left;*/
+}
