@@ -60,6 +60,7 @@ body {
 }
 
 #header{
+/*    position: fixed; */
     text-align: left;
     height: 60px;
     padding-bottom: 10px;
