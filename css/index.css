@@ -30,6 +30,10 @@ body {
     margin-right: auto;
     text-align: justify;
 }
+#body-title{
+    font-family: 'Open Sans', sans-serif;
+    text-align: center;
+}
 
 #home-title{ 
     color: #006400;
